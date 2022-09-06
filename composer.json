@@ -1,0 +1,19 @@
+{
+  "name": "xfstore/init-composer",
+  "description": "",
+  "type": "project",
+  "license": "MIT",
+  "homepage": "https://github.com/xfstore",
+  "keywords": ["xfstore", "init-composer"],
+  "support": {
+    "source": "https://github.com/xfstore/init-composer",
+    "issues": "https://github.com/xfstore/init-composer/issues",
+    "docs": "https://github.com/xfstore/init-composer/wiki",
+    "forum": "https://github.com/xfstore/init-composer/discussions"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false,
+    "sort-packages": true
+  }
+}
